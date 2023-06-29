@@ -21,7 +21,7 @@ My hard-scills:
 2. Python, C++ and Pascal 
 3. Machine learning and Deep learning 
 4. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
-5. HTML and Csv
+5. HTML and CSV
    
 
 
