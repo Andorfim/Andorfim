@@ -11,11 +11,17 @@ Interests:
 3. Quantum informatics
 
 
-My work at laboratory:
+My work at laboratory: 
 
-Development of photonic integrated circuits 
-for quantum encryption systems 
+Development of photonic integrated circuits for quantum encryption systems 
 
+My hard-scills:
 
+1. Comsol Multiphysics
+2. Python, C++ and Pascal 
+3. Machine learning and Deep learning 
+4. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
+5. HTML and Csv
+   
 
 
