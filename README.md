@@ -11,3 +11,10 @@ Interests:
 3. Quantum informatics
 
 
+My works:
+
+Development of photonic integrated circuits 
+for quantum encryption systems 
+
+
+
