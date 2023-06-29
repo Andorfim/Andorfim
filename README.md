@@ -24,7 +24,7 @@ My hard-scills:
 5. HTML and CSV
 
 
-A little bit about me:
+A little about places of study:
 
 1. Bauman Moscow State Technical University student (BMSTU) 2020-2021. 
    Department of Laser and Optoelectronic Systems.
