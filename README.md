@@ -1,6 +1,4 @@
-## About me
-
-Hi, I'm Andrei!
+## Hi, I'm Andrei!
 
 I'm a student at ITMO University.
 
