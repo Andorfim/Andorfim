@@ -13,7 +13,7 @@ My work at laboratory:
 
 Development of photonic integrated circuits for quantum encryption systems 
 
-My hard-scills:
+My hard-skills:
 
 1. Comsol Multiphysics
 2. Python, C++ and Pascal 
