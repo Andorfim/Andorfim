@@ -19,7 +19,7 @@ My hard-skills:
 2. Python, C++ and Pascal 
 3. Machine learning and Deep learning 
 4. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
-5. HTML and CSV
+5. HTML and CSS
 
 
 A little about places of study:
