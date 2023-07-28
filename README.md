@@ -7,7 +7,7 @@ Interests:
 1. Photonics
 2. Quantum communications
 3. Quantum informatics
-
+4. Distributed computing
 
 My work at laboratory: 
 
