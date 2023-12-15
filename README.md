@@ -1,6 +1,6 @@
 ## Hi, I'm Andrei!
 
-I'm a student at ITMO University.
+I'm a student at ITMO University
 
 Interests:
 
@@ -11,7 +11,7 @@ Interests:
 
 My work at laboratory: 
 
-Development of photonic integrated circuits for quantum encryption systems 
+Development of photonic integrated circuits for quantum encryption systems using AI
 
 My hard-skills:
 
@@ -24,9 +24,9 @@ My hard-skills:
 
 A little about places of study:
 
-1. Bauman Moscow State Technical University student (BMSTU) 2020-2021. 
-   Department of Laser and Optoelectronic Systems.
-3. ITMO University student 2021-present. 
+1. Bauman Moscow State Technical University student (BMSTU) 2020-2021 
+   Department of Laser and Optoelectronic Systems
+3. ITMO University student 2021-present
    Scientific educational center of photonics
 
 
