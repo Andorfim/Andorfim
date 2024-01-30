@@ -16,10 +16,11 @@ Development of photonic integrated circuits for quantum encryption systems using
 My hard-skills:
 
 1. Comsol Multiphysics
-2. Python, C++ and Pascal 
-3. Machine learning and Deep learning 
-4. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
-5. HTML and CSS
+2. Python, C++ and Pascal
+3. Matlab and Wolfram Mathematica 
+4. Machine learning and Deep learning 
+5. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
+6. HTML and CSS
 
 
 A little about places of study:
