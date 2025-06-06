@@ -16,8 +16,8 @@ My work at laboratory:
 A little about places of study:
 
 1. Bauman Moscow State Technical University student (BMSTU) 2020-2021 
-   Department of Laser and Optoelectronic Systems
+   (Department of Laser and Optoelectronic Systems)
 3. ITMO University student 2021-present
-   Scientific educational center of photonics
+   (Scientific educational center of photonics)
 
 
