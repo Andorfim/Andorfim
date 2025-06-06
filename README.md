@@ -1,27 +1,17 @@
 ## Hi, I'm Andrei!
 
-I'm a student at ITMO University
+I'm a student in ITMO University
 
 Interests:
 
-1. Photonics
-2. Quantum communications
-3. Quantum informatics
-4. Distributed computing
+- Photonics
+- Quantum communications
+- Quantum informatics
 
-My work at laboratory: 
+My work at laboratory:
 
-Development of photonic integrated circuits for quantum encryption systems using AI
-
-My hard-skills:
-
-1. Comsol Multiphysics
-2. Python, C++ and Pascal
-3. Matlab and Wolfram Mathematica 
-4. Machine learning and Deep learning 
-5. SQL and NoSQL Databases (Redis, Oracle, MongoDb)
-6. HTML and CSS
-
+- Development of photonic integrated circuits
+- Development of numerical tools for PICs / optoelectronic systems design
 
 A little about places of study:
 
