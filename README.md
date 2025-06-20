@@ -10,7 +10,7 @@ Interests:
 
 My work at laboratory:
 
-- Development of photonic integrated circuits
+- Photonic integrated circuits design  
 - Development of numerical tools for PICs / optoelectronic systems design
 
 A little about places of study:
