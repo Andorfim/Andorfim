@@ -1,6 +1,6 @@
 ## Hi, I'm Andrei!
 
-I'm a student in ITMO University
+I'm a math library developer at QuantCAD LLC (ООО КвантКад), also I'm a PIC's designer
 
 Interests:
 
@@ -11,7 +11,7 @@ Interests:
 My work at laboratory:
 
 - Photonic integrated circuits (PICs) design  
-- Development of numerical tools for PICs / optoelectronic systems design
+- Development of numerical tools for PICs / optoelectronic systems design, particularly for CAD applications
 
 A little about places of study:
 
