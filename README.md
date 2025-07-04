@@ -1,6 +1,6 @@
 ## Hi, I'm Andrei!
 
-I'm a math library developer at QuantCAD LLC (ООО КвантКад), also I'm a PIC's designer
+I'm a math library developer at QuantCAD LLC (ООО КвантКад), also I'm a photonic integrated circuits (PICs) designer
 
 Interests:
 
@@ -8,9 +8,9 @@ Interests:
 - Quantum communications
 - Quantum informatics
 
-My work at laboratory:
+My responsibilities at laboratories and at QuantCAD:
 
-- Photonic integrated circuits (PICs) design  
+- PICs design
 - Development of numerical tools for PICs / optoelectronic systems design, particularly for CAD applications
 
 A little about places of study:
