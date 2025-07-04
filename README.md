@@ -15,7 +15,7 @@ My responsibilities at laboratories and at QuantCAD:
 
 A little about places of study:
 
-1. ITMO University student 2021-2025 (B.S.)
+1. ITMO University 2021-2025 (B.S.)
    (Scientific educational center of photonics)
 
 
