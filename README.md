@@ -17,7 +17,7 @@ A little about places of study:
 
 1. ITMO University 2021-2025 (BSc)
    (Photonics and Optoinformatics program)
-3. Skolkovo Institute of Science and Technology 2025 - current (MSc)
+3. Skolkovo Institute of Science and Technology 2025 - 2027 (MSc)
    (Photonics and Quantum Materials program)
 
 
