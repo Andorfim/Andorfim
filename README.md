@@ -15,7 +15,9 @@ My responsibilities at laboratories and at QuantCAD:
 
 A little about places of study:
 
-1. ITMO University 2021-2025 (B.S.)
-   (Scientific educational center of photonics)
+1. ITMO University 2021-2025 (BSc)
+   (Photonics and Optoinformatics program)
+3. Skolkovo Institute of Science and Technology 2025 - current (MSc)
+   (Photonics and Quantum Materials program)
 
 
