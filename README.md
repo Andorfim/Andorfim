@@ -8,7 +8,7 @@ Interests:
 - Quantum communications
 - Quantum informatics
 
-My responsibilities at laboratories and at QuantCAD:
+My responsibilities at laboratories:
 
 - PICs design
 - Development of numerical tools for PICs / optoelectronic systems design, particularly for CAD applications
