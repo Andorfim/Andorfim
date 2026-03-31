@@ -1,6 +1,6 @@
 ## Hi, I'm Andrei!
 
-I'm a math library developer at QuantCAD LLC (ООО КвантКад), also I'm a photonic integrated circuits (PICs) designer
+I'm a photonic integrated circuits (PICs) designer
 
 Interests:
 
